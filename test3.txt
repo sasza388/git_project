@@ -1,1 +1,1 @@
-idk co huj
+print(zmiana 1)
